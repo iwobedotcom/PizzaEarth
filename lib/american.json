@@ -1,0 +1,11 @@
+{
+  "title": "American Pizza",
+  "desc": "Dough a sauce, mozzarella cheese, olive oil, egg whites, olives, shredded cheese anchovies and of course a few strands of fresh basil...",
+  "img": "/images/menu/pizza-4.png",
+  "prices": [5.79, 11.99, 14.99],
+  "extraIng": [
+    { "ing": "Extra Cheese", "price": 4.0 },
+    { "ing": "Hot Sauce", "price": 4.0 },
+    { "ing": "Garlic Sauce", "price": 4.0 }
+  ]
+}

@@ -1,0 +1,27 @@
+.done {
+}
+.inProgress {
+  animation: inProgress 1s ease infinite alternate;
+}
+.inProgress span {
+  display: none;
+}
+@keyframes inProgress {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.undone {
+  opacity: 0.3;
+}
+
+.undone span {
+  display: none;
+}
+
+.editor-listing-table {
+  @apply w-full p-2 m-1;
+}

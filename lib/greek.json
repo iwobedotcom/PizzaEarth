@@ -1,0 +1,11 @@
+{
+    "title": "Greek Pizza",
+    "desc": "Pizza dough, feta, fresh mozzarella, kalamata olives, roasted red peppers, marinara sauce, anchovies and of course a few strands of fresh basil...",
+    "img": "/images/menu/pizza-2.png",
+    "prices": [5.79, 11.99, 14.99],
+    "extraIng": 
+        [{"ing": "Extra Cheese", "price": 4.00},
+        {"ing": "Hot Sauce", "price": 4.00},
+        {"ing": "Garlic Sauce", "price": 4.00}
+    ]
+}

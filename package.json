@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@paypal/react-paypal-js": "^7.6.0",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@tailwindcss/forms": "^0.5.0",
+    "autoprefixer": "^10.4.4",
+    "axios": "^0.26.1",
+    "cookie": "^0.5.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
     "next": "12.1.4",
+    "postcss": "^8.4.12",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
+    "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
     "eslint": "8.12.0",
